@@ -30,3 +30,12 @@ After implementing the solutions, the support team verifies the resolution to en
 7. Closure and Ticket Resolution:'🌙
 
 Once the issue is successfully resolved and verified, the support ticket is marked as resolved, and the customer is notified of the resolution.
+
+8. Feedback and Follow-up:'🌙
+
+The support team may solicit feedback from the customer regarding their experience and satisfaction with the support provided. They may also conduct follow-ups to ensure the issue remains resolved.
+
+9. Ticket Archiving and Documentation:'🌙
+
+The details of the ticket, including the issue, resolution, and any relevant information, are archived for future reference and for improving support processes.
+The ticket-lifecycle concept helps organizations manage and streamline their customer support operations effectively, ensuring that customer issues are addressed in a structured and timely manner. It's crucial for maintaining high levels of customer satisfaction and ensuring the optimal functioning of Azure services and products.
