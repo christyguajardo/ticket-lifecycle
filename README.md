@@ -44,3 +44,10 @@ Ticket examples from the enduser prespective. We will also work tickets as the p
 
 ![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/e46eed2b-b452-46ef-910c-1b0c553fa2e4)
 
+🌖Now that we have discussed facts and information, we are now going to log into osTicket as an Enduser and as a Help Desk Professional. Please see below for demonstration. 
+
+Click - Open a New Ticket (We are the Enduser in this example) 
+
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/9d7e9298-5f18-402c-8a59-4ec842d07691)
+
+
