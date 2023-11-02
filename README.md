@@ -39,3 +39,8 @@ The support team may solicit feedback from the customer regarding their experien
 
 The details of the ticket, including the issue, resolution, and any relevant information, are archived for future reference and for improving support processes.
 The ticket-lifecycle concept helps organizations manage and streamline their customer support operations effectively, ensuring that customer issues are addressed in a structured and timely manner. It's crucial for maintaining high levels of customer satisfaction and ensuring the optimal functioning of Azure services and products.
+
+Ticket examples from the enduser prespective. We will also work tickets as the professional resolving the issues. 
+
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/e46eed2b-b452-46ef-910c-1b0c553fa2e4)
+
