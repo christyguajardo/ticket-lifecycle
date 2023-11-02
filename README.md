@@ -40,14 +40,53 @@ The support team may solicit feedback from the customer regarding their experien
 The details of the ticket, including the issue, resolution, and any relevant information, are archived for future reference and for improving support processes.
 The ticket-lifecycle concept helps organizations manage and streamline their customer support operations effectively, ensuring that customer issues are addressed in a structured and timely manner. It's crucial for maintaining high levels of customer satisfaction and ensuring the optimal functioning of Azure services and products.
 
-Ticket examples from the enduser prespective. We will also work tickets as the professional resolving the issues. 
-
-![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/e46eed2b-b452-46ef-910c-1b0c553fa2e4)
-
 🌖Now that we have discussed facts and information, we are now going to log into osTicket as an Enduser and as a Help Desk Professional. Please see below for demonstration. 
 
 Click - Open a New Ticket (We are the Enduser in this example) 
 
 ![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/9d7e9298-5f18-402c-8a59-4ec842d07691)
+
+Complete Contact Information
+
+     🌕Email Address
+     
+     🌕Full Name
+     
+     🌕Help Topic
+     
+     🌕Issue Summary
+
+Click on Create Ticket
+
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/2cdb995d-1299-49f7-92e1-b6e1ceae03c9)
+
+Ticket has been created
+
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/b77bf9cf-b8a8-45aa-bf68-58e700673234)
+
+Next we are going to log into osTicket as a Help desk professional; we are logging in as jane.doe
+
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/d5c86595-00cb-49e9-8d69-5fea1fb6f5c1)
+
+Snapshot of ticket 
+
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/0bd40136-aa4a-44f9-8d56-f4985d357d80)
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/c06b3658-f1a0-486c-809b-ba0bf831ec7b)
+
+
+This ticket needs some updates; it's high priority because it can interrupt daily business activities and responsibilities. Jane has assigned the ticket to herself as well as transferred the 
+ticket to the correct department, which is Systems Admins. She also changed the SLA from SEV-C to SEV-A. 
+
+Updated ticket below
+
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/677a6c87-75ae-4613-a608-21dcd5fccf4e)
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/73087948-3062-4a92-bb32-9546f93ad9ea)
+
+Now we are back at the menu and can see all of the updates that Jane made.
+
+![image](https://github.com/christyguajardo/ticket-lifecycle/assets/147533626/fd44ed9b-127a-44ca-92a2-0576a87ba31f)
+
+Thanks for walking through these steps with me!
+This concludes the demonstration!
 
 
